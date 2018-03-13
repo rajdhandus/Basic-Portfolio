@@ -3,12 +3,14 @@ body {
     background-image: url("../images/circles-light.png");
 
 }
+
 img{
-    width: 200;
-    height: 200;
+    width: 200px;
+    height: 200px;
     float: left;
     margin: 15px;
 }
+
 .topsection {
     background: white;
     color: black;
