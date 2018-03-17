@@ -68,16 +68,14 @@ a:active {
 }
 footer {
     width: 100%;
-    height: 10%;
-    line-height: 500%;
+    height: 40px;
     border-top: 5px solid #4aaaa5;
     background: #666666;
     color: white;
     text-align: center;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    font-size: 12px;
-    margin-bottom: 0;
-    padding-bottom:0;
+    font-size: 14px;
+    padding-top: 20px;   
     position: fixed;
     left: 0;
     bottom: 0;
